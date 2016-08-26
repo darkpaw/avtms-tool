@@ -1,0 +1,10 @@
+    - AVETMISS
+        - Data Input
+            - Fetch/create sample input data
+            - Import sample data?
+            - Define mappings?
+        - AVETMISS format output
+            - [COMPLETE] Find file format documentation
+            - Define fields and files
+            - Mapping definition
+
